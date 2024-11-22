@@ -1,2 +1,2 @@
-# .github
-smart insights for electoral impact
+# ElectIQ
+## smart insights for electoral impact
